@@ -67,3 +67,16 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+.titulo {
+	font-weight: bold;
+}
+div.centraTabla {
+	text-align: center;
+}
+table {
+	margin: 0 auto;
+	text-align: left;
+}
+th, td {
+	border: 1px solid black;
+}
