@@ -67,3 +67,14 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+
+.imagen{
+	width: 100px;
+	height: 50px;
+	border: 2px dashed blue;
+}
+
+.imagen:hover{
+	border: 2px dashed red;
+}
+
